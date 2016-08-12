@@ -16,3 +16,21 @@ http://www.ccsse.org/
 * Espeficación: es una descripcion detallada y precisa de algo existente 8o que existirá) o de una cierta situación, presente o futura
 
 
+Craftmanship => video
+Clean code => pdf
+Beautiful code => pdf
+
+# Ciclo de vida
+
+el ciclo de vida de un producto o proyecto de software es la evolucion del mismo desde el momento de su concepción hasta el momento en el que se deja de usar. 
+
+# Proceso de software
+
+Conjunto coherente de politicas, estructuras organizativas, procedimientos, tecnologias y artefactos que se necesitan para concebir, desarrollar, implantar y mantener un producto de software.
+
+
+
+
+
+
+
