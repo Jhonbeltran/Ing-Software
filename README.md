@@ -36,4 +36,4 @@ Conjunto coherente de politicas, estructuras organizativas, procedimientos, tecn
 
 
 
-
+> hacer mapa conceptual de la crisis de software
