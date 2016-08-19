@@ -2,12 +2,12 @@
 
 Podemos realizarla cuando:
 
-1 Cuando importamos librerias alimentadas por terceros
-2 Cuando tenemos dos modulos de una misma aplicacion (Estilos, header, footer).
-3 Existen similitudes entre dos aplicaciones diferentes (cuando tenemos desarrollado .
+- Cuando importamos librerias alimentadas por terceros
+- Cuando tenemos dos modulos de una misma aplicacion (Estilos, header, footer).
+- Existen similitudes entre dos aplicaciones diferentes (cuando tenemos desarrollado .
 	un codigo para administrar un supermercado y decidimos adaptarlo a un restaurante)
-4 El diseño de aplicativos = especificar modulos + interrelaciones entre ellos.
-5 Para aumentar el rendimiento de un sistema ya existente.
+- El diseño de aplicativos = especificar modulos + interrelaciones entre ellos.
+- Para aumentar el rendimiento de un sistema ya existente.
 
 * Ventajas de la reutilizacion de codigo
 	- Reduce tiempo y costes de desarrollo
@@ -56,16 +56,16 @@ Fases:
 - Modelo fuente
 	fases:
 
-	1 Planificación del negocio (fase de analisis y de estudio de las necesidades)
-	2 Construcción 
+	- Planificación del negocio (fase de analisis y de estudio de las necesidades)
+	- Construcción 
 		a. Planificación: se evaluan requerimientos (analisis inicial del software)
 		b. Investigación: se buscan tecnologias vinculadas al diseño y Construcción
 		c. Especificación: se realiza el detalle del diseño de los elementos 
 			implementados en el software
 		d. Implementación: Se efectua la construccion del software
 		e. Revisión: Pruebas
-	3 Entrega garantizando su funcionalidad
-	4 Periodos
+	- Entrega garantizando su funcionalidad
+	- Periodos
 		a. Crecimiento:  se construye el sistema
 		b. Madurez: mantenimiento del producto
 
@@ -74,22 +74,23 @@ imagenes: http://3.bp.blogspot.com/-ys_bK8WaRrA/T61OUjmFm1I/AAAAAAAAALo/DlQBW-8Q
 - Modelo Agrupamiento: grupo de clases relacionadas
 	cada modulo maneja su cilo de vida
 	- Subciclo de vida: 
-		a. Especificación: identificar requerimientos
-		b. Diseño: Establecer modelos de soluciones
-		c. Implementación: Se construye el software
-		d. Verificación/Validacion: garantizando calidad
-		e. Generalizacion: Repetir exitos
+		- Especificación: identificar requerimientos
+		- Diseño: Establecer modelos de soluciones
+		- Implementación: Se construye el software
+		- Verificación/Validacion: garantizando calidad
+		- Generalizacion: Repetir exitos
 
 imagenes: http://kerncountylibrary.org/wp-content/uploads/2015/04/Puzzle-pieces.jpg
 
 - Modelo Remolino: nos ofrece una vision multiciclica
 	dimenciones:
-	a. Amplitud: ¿cuantos elementos lo compondrian?
-	b. Profundidad: ¿que nivel de abstracción empleará?
-	c. Alternativa: soluciones a bugs
-	d. Alcance: hasta donde se quiere llegar considerando cambios
+	- Amplitud: ¿cuantos elementos lo compondrian?
+	- Profundidad: ¿que nivel de abstracción empleará?
+	- Alternativa: soluciones a bugs
+	- Alcance: hasta donde se quiere llegar considerando cambios
 
 imagenes: http://xn--quesignificasoarcon-83b.com/wp-content/uploads/2015/04/remolino-negro-con-blanco-842616.jpg
+
 
 - Modelo pinball
 
