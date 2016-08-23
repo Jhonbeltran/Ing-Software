@@ -45,3 +45,8 @@ Los diagramas de casos de uso describen las acciones o funcionalidades de un sis
 
 ![](https://es.wikipedia.org/wiki/Caso_de_uso#/media/File:Notacion_Caso_de_Uso.svg)
 https://es.wikipedia.org/wiki/Caso_de_uso#/media/File:Notacion_Caso_de_Uso.svg
+
+<<Include>>: Incluir - Este es de caracter obligatorio
+<<Extend>>: Extender - Este es de caracter opcional o alternativo; Es una opcion de alternativa para un caso de uso
+
+Generalizacion: Generaliza una que otra “cosa” en un UML
